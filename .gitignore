@@ -1,0 +1,69 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Recipe Management System/*
+!/Recipe Management System/task/
+/Recipe Management System/task/*
+!/Recipe Management System/task/src
+!/Recipe Management System/task/build.gradle
+
+# Project exclude paths
+/Topics/LocalDate/2 weeks after/out/
+/Topics/LocalDate/2 weeks after/out/production/classes/
+/Topics/LocalDate/Convert numbers to days/out/
+/Topics/LocalDate/Convert numbers to days/out/production/classes/
+/Topics/LocalDate/Representing a date/out/
+/Topics/LocalDate/Representing a date/out/production/classes/
+/Topics/LocalDate/Similar date/out/
+/Topics/LocalDate/Similar date/out/production/classes/
+/Topics/LocalDate/The n-th day from the end of a month/out/
+/Topics/LocalDate/The n-th day from the end of a month/out/production/classes/
+/Topics/LocalDate/Theory/out/
+/Topics/LocalDate/Theory/out/production/classes/
+/Topics/LocalDate/Working with dates/out/
+/Topics/LocalDate/Working with dates/out/production/classes/
+/Topics/LocalDateTime/Add days and subtract hours/out/
+/Topics/LocalDateTime/Add days and subtract hours/out/production/classes/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/production/classes/
+/Topics/LocalDateTime/Adding N minutes/out/
+/Topics/LocalDateTime/Adding N minutes/out/production/classes/
+/Topics/LocalDateTime/LocalDateTime class/out/
+/Topics/LocalDateTime/LocalDateTime class/out/production/classes/
+/Topics/LocalDateTime/Theory/out/
+/Topics/LocalDateTime/Theory/out/production/classes/
+/Topics/The utility class Collections/An uncompiled statement/out/
+/Topics/The utility class Collections/An uncompiled statement/out/production/classes/
+/Topics/The utility class Collections/Collection class basics/out/
+/Topics/The utility class Collections/Collection class basics/out/production/classes/
+/Topics/The utility class Collections/Multiple swaps/out/
+/Topics/The utility class Collections/Multiple swaps/out/production/classes/
+/Topics/The utility class Collections/Sorting sequences/out/
+/Topics/The utility class Collections/Sorting sequences/out/production/classes/
+/Topics/The utility class Collections/The first index of a sublist/out/
+/Topics/The utility class Collections/The first index of a sublist/out/production/classes/
+/Topics/The utility class Collections/Theory/out/
+/Topics/The utility class Collections/Theory/out/production/classes/
+/Topics (1)/Builder/Builder/out/
+/Topics (1)/Builder/Builder/out/production/classes/
+/Topics (1)/Builder/Builder (1)/out/
+/Topics (1)/Builder/Builder (1)/out/production/classes/
+/Topics (1)/Builder/Describe the builder/out/
+/Topics (1)/Builder/Describe the builder/out/production/classes/
+/Topics (1)/Builder/Disadvantage of Builder pattern/out/
+/Topics (1)/Builder/Disadvantage of Builder pattern/out/production/classes/
+/Topics (1)/Builder/Geek Builder/out/
+/Topics (1)/Builder/Geek Builder/out/production/classes/
+/Topics (1)/Builder/Robot Builder/out/
+/Topics (1)/Builder/Robot Builder/out/production/classes/
+/Topics (1)/Builder/Theory/out/
+/Topics (1)/Builder/Theory/out/production/classes/
